@@ -10,7 +10,7 @@ A GuessTheNumber game that takes input from the user and gives them a hint wheth
 DEPLOYEMENT:
 <br>
 <br>
-Deployed websie: https://kanishkk19.github.io/DrumKit/
+Deployed websie: https://kanishkk19.github.io/GuessTheNumber/
 <hr>
 
 ![image](https://github.com/kanishkk19/GuessTheNumber/blob/main/ss1.png)
